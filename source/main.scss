@@ -3,8 +3,6 @@ $CorSecundaria: #fff;
 $CorButao: #44bd32;
 
 
-@use 'reset.scss';
-@use 'variaveis';
 @use 'sass:math';
 
 @mixin elementoForm(){
