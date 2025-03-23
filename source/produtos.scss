@@ -1,0 +1,5 @@
+@use '../configuracoes/cores';
+
+.produtos{
+    background-color: cores.$CorPrincipal;
+}   
